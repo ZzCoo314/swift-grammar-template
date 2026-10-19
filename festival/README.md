@@ -29,7 +29,7 @@
 
 ## 画面
 
-<img width="392" height="834" alt="Screen1" src="https://github.com/user-attachments/assets/52f689dc-36a1-426e-9cf6-236f00d4d8e3" />
+<img width="300" height="834" alt="Screen1" src="https://github.com/user-attachments/assets/52f689dc-36a1-426e-9cf6-236f00d4d8e3" />
 
 
 ## 使った文法・技術
